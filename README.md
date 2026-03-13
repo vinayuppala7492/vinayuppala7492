@@ -1,2 +1,7 @@
-##About Me
-I am a student and content creator passionate about simplifying self-growth for students. I share insights on productivity, mindset, and personal development while also building projects that help students become more efficient and organized. My mission is to combine technology and self-improvement to help students unlock their full potential.
+## About Me
+
+- 🎓 Student | Content Creator
+- 🎯 Focused on **simplifying self-growth for students**
+- ⚡ Creating content on **Productivity, Mindset, and Personal Development**
+- 💻 Building projects that solve **real student problems**
+- 🚀 Mission: Combine **technology + self-improvement** to help students unlock their full potential
