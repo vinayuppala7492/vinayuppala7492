@@ -1,71 +1,93 @@
-<h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">Student | Developer | Content Creator</h3>
+<h1 align="center">Hi 👋 I'm Vinay Uppala</h1>
+<h3 align="center">Student • Developer • Content Creator</h3>
 
 <p align="center">
-Simplifying Self-Growth for Students through Technology, Productivity, and Mindset
+Building technology and content to simplify self-growth for students.
 </p>
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Student and Content Creator focused on **simplifying self-growth for students**
-- ⚡ Sharing insights on **Productivity, Mindset, and Personal Development**
-- 💻 Building projects that solve **real student problems**
-- 🧠 Passionate about combining **technology with self-improvement**
-- 🚀 Mission: Help students **unlock their full potential**
+- 🎓 Student passionate about **technology and self-growth**
+- 🎥 Content Creator simplifying **productivity, mindset, and personal development**
+- 💻 Developer building **tools that solve real student problems**
+- 🧠 Interested in **automation, systems, and student productivity**
+- 🚀 Mission: **Help students unlock their full potential using technology**
 
-- ## 💻 Tech Stack
+---
 
-- Python
-- Flask
-- Selenium
-- Firebase
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## 🧰 Tech Stack
 
-- ## 💻 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+---
 
-## 📌 Current Project
+## 📌 Featured Project
 
-🚀 **Automated Attendance Tracker**
+### 🚀 Automated Attendance Tracker
 
-A system that:
+A system that helps students monitor their attendance automatically.
+
+**Features**
+
 - Scrapes attendance data from the college portal
-- Stores it in Firebase
-- Displays analytics using charts
+- Stores data in Firebase
+- Displays analytics and attendance insights
 
-Tech Used:
+**Tech Used**
+
 Python • Flask • Selenium • Firebase • Chart.js
+
+---
 
 ## 📊 GitHub Stats
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=vinayuppala7492&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayuppala7492&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
-- YouTube
-- Instagram
-- LinkedIn
-- Twitter (X)
+<p>
+<a href="https://youtube.com/@vinayuppala7492">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
+</a>
 
-- [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](yourlink)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](yourlink)
+<a href="https://instagram.com/vinayuppala7492">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+</a>
 
+<a href="https://linkedin.com/in/vinayuppala7492">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
-## 🎯 My Mission
+---
+
+## 🎯 Mission
 
 To help students improve their lives through:
+
 - Better systems
 - Strong mindset
 - Technology
 - Self-improvement
+
+---
+
+⭐ *Building tools and content that make student life better.*
