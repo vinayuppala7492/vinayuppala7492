@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Vinay
 
-<!--
-**vinayuppala7492/vinayuppala7492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🚀 Interested in AI, Flutter, and Financial Intelligence  
+📚 Currently learning: Flutter & App Development  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Flutter
+- Git & GitHub
+- AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Self Discipline Tracker App
+- Credit Risk Intelligence Agent
+- Financial Recommendation Agent
+
+## Contact
+LinkedIn: your-link
+Email: your-email
