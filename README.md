@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Vinay Uppala</h1>
+<h3 align="center">Student • Developer • Content Creator</h3>
 
+<p align="center">
+Simplifying Self-Growth for Students through Technology, Productivity, and Mindset
+</p>
+
+---
 
 ## 🧠 About Me
 
@@ -35,26 +42,48 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Project
+# 📌 Featured Projects
 
-### 🚀 Automated Attendance Tracker
+---
+
+## 🚀 Automated Attendance Tracker
 
 A system that helps students **track and analyze their attendance automatically.**
 
-**Key Features**
+### Key Features
 
 * Scrapes attendance data from the college portal
 * Displays attendance analytics using charts
 
-**Tech Stack**
+### Tech Stack
 
 Python • Selenium • Chart.js • HTML • CSS • JavaScript
+
+---
+
+## 🚀 Self Discipline Tracker App
+
+A productivity app that helps users **build self-discipline** by tracking habits, monitoring screen time, and blocking distracting apps when limits are exceeded.
+
+### Key Features
+
+* Tracks daily habits and discipline goals
+* Monitors usage of distracting apps
+* Sends warning notifications before blocking apps
+* Automatically blocks apps if usage exceeds the set limit
+* Provides daily progress reports and analytics
+
+### Tech Stack
+
+Flutter • Dart • Android APIs • SQLite (Local Storage) • Notification Services
 
 ---
 
